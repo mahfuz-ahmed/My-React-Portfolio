@@ -1,0 +1,44 @@
+.banner{
+    background-color: #24263B;
+    height: 1200px;
+    color: white;
+    height: 450px;
+    display: flex;
+  }
+  
+  .banner-title{
+    width: 90%;
+  }
+    
+  .banner-name{
+    margin-top: 150px;
+    font-size: 40px;
+    text-align: justify;
+    margin-left: 100px;
+    color: white;
+     
+  }
+  
+  .banner-details{
+   width: 60%;
+   text-align: justify;
+   margin-left: 110px;
+   font-size: 30px;
+     
+  }
+
+  .resume{
+    background: #24263B;
+}
+
+  .banner-image{
+      margin-right: 5%;
+  }
+
+  .banner-image img{
+    height: 80%;
+    border-radius:30px;
+    margin-left: 0px;
+    margin-top: 10%;
+    
+}
